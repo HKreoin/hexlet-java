@@ -1,4 +1,4 @@
-package io;
+package io.hexlet;
 
 public class Two {
     public static void greeting() {
